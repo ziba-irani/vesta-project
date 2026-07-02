@@ -1,7 +1,7 @@
 # 🛍️ Vesta — Fashion Store
 
 > A modern clothing e-commerce web app built with React, Redux, and TypeScript.
-**Online Demo** : https://vesta-project-enc00552e-ziba-iranis-projects.vercel.app/
+- **Online Demo** : https://vesta-project-enc00552e-ziba-iranis-projects.vercel.app/
 ---
 
 ## ✨ Features
