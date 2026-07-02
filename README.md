@@ -58,7 +58,7 @@ src/
 ### Installation
 
 ```bash
-git clone [https://github.com/ziba-irani/vesta.git](https://github.com/ziba-irani/vesta-project)
+git clone https://github.com/ziba-irani/vesta-project
 cd vesta
 npm install
 ```
