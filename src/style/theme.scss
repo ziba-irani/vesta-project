@@ -1,0 +1,44 @@
+/* styles/theme.scss */
+
+:root {
+}
+
+html[data-theme="light"] {
+  --text-black: #000;
+  --bg-gray-100: #f8f8f8;
+  --bg-white-100: #ffff;
+  --bg-white-200: #ffff;
+  --border-black: #000;
+  --bg-black-100: #000;
+}
+html[data-theme="dark"] {
+  --text-black: #fff;
+  --bg-gray-100: #0a0a0a;
+  --bg-white-100: #151515;
+  --bg-white-200: #262626;
+  --border-black: #424242;
+  --bg-black-100: #262626;
+}
+.th {
+  &-textBlack {
+    color: var(--text-black);
+  }
+  &-bgGray-100 {
+    background-color: var(--bg-gray-100);
+  }
+  &-BorderBlack {
+    border-color: var(--border-black);
+  }
+  &-bgBlack-100 {
+    background-color: var(--bg-black-100);
+  }
+  &-bgWhite-100 {
+    background-color: var(--bg-white-100);
+  }
+  &-text-white {
+    color: var(--bg-white-100);
+  }
+  &-bgWhite-200 {
+    background-color: var(--bg-white-200);
+  }
+}
