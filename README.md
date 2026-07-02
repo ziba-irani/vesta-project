@@ -58,7 +58,7 @@ src/
 ### Installation
 
 ```bash
-git clone https://github.com/ziba-irani/vesta.git
+git clone [https://github.com/ziba-irani/vesta.git](https://github.com/ziba-irani/vesta-project)
 cd vesta
 npm install
 ```
@@ -84,10 +84,6 @@ Vesta fetches data from two external services:
 
 Configure base URLs in your `.env` file:
 
-```env
-VITE_PRODUCTS_API=https://your-products-api.com
-VITE_REVIEWS_API=https://your-reviews-api.com
-```
 
 ---
 
